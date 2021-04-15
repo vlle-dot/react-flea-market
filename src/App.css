@@ -1,0 +1,13 @@
+html {
+  background-color: #000;
+}
+
+.leaflet-container {
+
+  width: 90vw;
+  height: 90vh;
+}
+
+/*
+#mapid { height: 500px; width: 800px;}
+*/
