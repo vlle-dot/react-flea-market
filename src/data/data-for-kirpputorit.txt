@@ -1,0 +1,272 @@
+/* 74 kpl 
+'UFF Mannerheimintie', 60.189495,24.916535
+
+
+var locations =[
+    ['Omakirppis KABOOM!', 60.19178609999999, 24.94663689999993, 4745, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/omakirppis-kaboom'],
+
+    ['Sisustustori Helsinki Oy', 60.2474517, 24.843073300000014, 4691, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/sisustustori-helsinki-oy'],
+
+    ['Fida - Malmi', 60.25663429999999, 24.99857309999993, 4669, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/fida-malmi'],
+
+    ['Fida - Lönkka', 60.16714259999999, 24.941028500000016, 4667, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/fida-lonkka'],
+
+    ['Satamakirppis', 60.190442, 24.981343899999956, 4538, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/satamakirppis'],
+
+    ['Ajurin Jättikirppis', 60.22216419999999, 24.849094299999933, 4498, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/ajurin-jattikirppis'],
+
+    ['Kontulan Kirppis VIP ', 60.2358943, 25.082608800000002, 4481, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kontulan-kirppis-vip'],
+
+    ['Vanhan kirpputorit', 60.1687021, 24.94053489999999, 4478, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/vanhan-kirpputorit'],
+    
+    ['UFF Columbus', 60.2076017, 25.144742599999972, 4419, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-columbus'],
+
+    ['UFF Ostostie', 60.23833310000001, 25.08363159999999, 4417, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-ostostie'],
+
+    ['Siion Lähetyskirppis', 60.1868339, 24.917815399999995, 4390, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/siion-lahetyskirppis'],
+
+    ['Happy Kirpputori', 60.22443509999999, 24.951902399999994, 4119, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/happy-kirpputori'],
+
+    ['UFF Malminkaari', 60.2508545, 25.01174400000002, 4060, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-malminkaari'],
+
+    ['PiggyBank', 60.23555779999999, 25.100885500000004, 3962, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/piggybank'],
+
+    ['Kulabo Shop', 60.18192059999999, 24.951274000000012, 3824, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kulabo-shop'],
+
+    ['Pihlis Kirppis', 60.2330106, 25.011742400000003, 3822, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/pihlis-kirppis'],
+
+    ['Oivan Kirppis', 60.18165639999999, 24.951387599999975, 3818, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/oivan-kirppis'],
+
+    ['Designkauppa Sanomatalo', 60.172338,24.937008, 3631, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/designkauppa-sanomatalo'],
+
+    ['Kirpputori Basaari', 60.201965,25.060113, 3601, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kirpputori-basaari'],
+
+    ['Piilokirppis', 60.204032,25.147439, 3455, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/piilokirppis'],
+
+    ['Minipoppoo', 60.2376524, 24.890397099999973, 3297, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/minipoppoo'],
+
+    ['DoM Itsepalvelukirpputori', 60.185536,24.921961, 3088, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/dom-itsepalvelukirpputori'],
+
+    ['Keisarinviitta Second Hand', 60.188518,24.957835, 3076, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/keisarinviitta-second-hand'],
+
+    ['Kääntöpaikan sunnuntaikirppikset', 60.20618,24.972545, 2950, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kaantopaikan-sunnuntaikirppikset'],
+
+    ['Tähti - putiikki', 60.164506,24.928704, 2414, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/tahti-putiikki'],
+
+    ['Vanhan viertotien kirpputori', 60.210506,24.88302, 2005, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/vanhan-viertotien-kirpputori'],
+
+    ['Kruunukirppu', 60.17306,24.95652, 1352, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kruunukirppu'],
+
+    ['Konttitori', 60.217782,24.839413, 1069, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/konttitori'],
+
+    ['Jäähallin Kirpputori', 60.188765,24.919405, 1062, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/jaahallin-kirpputori'],
+    
+    ['Hietalahdentorin kirpputori', 60.162397,24.931463, 1060, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/hietalahdentorin-kirpputori'],
+
+    ['Bewen Parkkikirppikset - CM Itäkeskus', 60.208006,25.082924, 1046, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/bewen-parkkikirppikset-itakeskus'],
+
+    ['Malmintorin kirppis', 60.251726,25.010755, 349, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/malmintorin-kirppis'],
+
+    ['Pelastusarmeijan Kirpputori - Töölö', 60.186848,24.919628, 345, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/pelastusarmeijan-kirpputori-toolo'],
+
+    ['Pelastusarmeijan Kirpputori - Malmi', 60.252629,25.007437, 343, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/pelastusarmeijan-kirpputori-malmi'],
+
+    ['Pelastusarmeijan Kirpputori - Laajasalo', 60.179604,25.055593, 341, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/pelastusarmeijan-kirpputori-laajasalo'],
+
+    ['UFF Itäkeskus', 60.211127,25.079696, 339, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-itakeskus'],
+
+    ['UFF Runeberginkatu', 60.16933,24.927442, 337, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-runeberginkatu'],
+
+    ['UFF Mannerheimintie ', 60.189495,24.916535, 334, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-mannerheimintie'],
+
+    ['UFF Iso Roba 4-6', 60.164025,24.943716, 332, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-iso-roba4-6'],
+
+    ['UFF Hämeentie', 60.180525,24.951659, 330, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-hameentie'],
+
+    ['UFF Fredrikinkatu', 60.16626,24.934297, 328, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/uff-fredrikinkatu'],
+
+    ['Kirpun tori', 60.203354,24.970425, 324, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kirpun-tori'],
+
+    ['Vekarakirppis', 60.208051,24.967011, 322, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/vekarakirppis'],
+
+    ['Oranssitori', 60.153615,24.884085, 317, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/oranssitori'],
+
+    ['Kaivarin Kanuuna', 60.155919,24.948929, 315, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kaivarin-kanuuna'],
+
+    ['Vapaaseurakunnan Kirppis', 60.166342,24.926906, 308, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/vapaaseurakunnan-kirppis'],
+
+    ['Mellukirppis', 60.23757,25.118042, 306, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/mellukirppis'],
+
+    ['Tuuliatuu', 60.17395,24.953109, 303, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/tuuliatuu'],
+
+    ['Kirpputori Hietsumarket', 60.1621819,24.9292583, 299, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kirpputori-hietsumarket'],
+
+    ['Wiedermeier', 60.172321,24.95486, 295, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/wiedermeier'],
+
+    ['Isan Tamine', 60.203707,24.895305, 293, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/isan-tamine'],
+
+    ['Jade', 60.189518,24.952539, 285, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/jade'],
+
+    ['Horisontin kirpputori', 60.2469753, 24.859858400000007, 281, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/horisontin-kirpputori'],
+
+    ['Kulkukollin kirpputori', 60.241414,24.959673, 278, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kulkukollin-kirpputori'],
+
+    ['Diakoniakirpputori', 60.222437,25.06392, 275, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/diakoniakirpputori'],
+
+    ['Aino Kirpputori', 60.239203,24.875634, 273, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/aino'],
+
+    ['Pöytäparkki', 60.251146,25.008537, 270, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/poytaparkki'],
+
+    ['Löytöretki', 60.195837,24.953501, 268, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/loytoretki'],
+
+    ['Arkadian Yhteisön Kirpputori', 60.182624,24.936255, 263, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/arkadian-yhteison-kirpputori'],
+
+    ['Huonekalujen Kirppis', 60.254863,25.026701, 257, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/huonekalujen-kirppis'],
+
+    ['Kierrätyskeskus – Kyläsaari', 60.193553,24.979656, 250, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kierratyskeskus-kylasaari'],
+
+    ['Kierrätyskeskus - Hietalahti', 60.162041,24.926063, 248, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/kierratyskeskus-hietalahti'],
+
+    ['Emmaus - Lauttasaari', 60.158649,24.876812, 246, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/emmaus-lauttasaari'],
+
+    ['Emmaus - Vallila', 60.195837,24.953501, 244, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/emmaus-vallila'],
+
+    ['Fida Lähetystori - Sörnäinen', 60.187807,24.963022, 242, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/fida-lahetystori-sornainen'],
+
+    ['Fida Lähetystori - Ostoskeskus Puotinharjun Puhos', 60.214515,25.082159, 239, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/ostoskeskus-puotinharjun-puhos'],
+
+    ['Fida Lähetystori - Iso Roba', 60.16303,24.940773, 234, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/fida-lahetystori-iso-roba'],
+
+    ['Fida Lähetystori - Hakaniemi', 60.181295,24.953851, 232, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/fida-lahetystori-hakaniemi'],
+
+    ['Työ & Toiminta ry:n kierrätystavaratalo', 60.224355,25.075701, 227, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/tyo-toiminta-ryn-kirppis'],
+
+    ['Samaria-Shop Tunturikatu', 60.174112,24.922849, 222, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/samaria-shop-tunturikatu'],
+
+    ['Samaria-Shop Sturenkatu ', 60.195284,24.958782, 220, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/samaria-shop-sturenkatu'],
+
+    ['Vastuunkantajat ry:n Kirpputori', 60.19625,24.962628, 218, '-', 'https://www.kirpputorihaku.com/kirpputori/helsinki/vastuunkantajien-kirppis']
+            ];
+
+
+
+
+
+
+            <script type="text/javascript">
+            var kirpparit = [
+            ['<a href="http://www.kirppikset.info/kirppikset/almost-new" rel="bookmark" title="Almost New">Almost New</a>',60.1832274,24.9578849],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kirpputori-momas-vintage-putiikki" rel="bookmark" title="Kirpputori Momas &amp; Vintage-putiikki">Kirpputori Momas &amp; Vintage-putiikki</a>',60.2394662,24.844847],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/fida-helsinki-malmi-yla-malmin-tori" rel="bookmark" title="Fida Helsinki, Malmi (Ylä-Malmin tori)">Fida Helsinki, Malmi (Ylä-Malmin tori)</a>',60.2525797,25.0080057],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/relove-freda" rel="bookmark" title="Relove Freda">Relove Freda</a>',60.1624341,24.939858],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-punavuori-helsinki" rel="bookmark" title="UFF Punavuori (Helsinki)">UFF Punavuori (Helsinki)</a>',60.1632973,24.935073],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-ruoholahti-helsinki" rel="bookmark" title="UFF Ruoholahti (Helsinki)">UFF Ruoholahti (Helsinki)</a>',60.163556,24.9101479],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kumpulan-helmi" rel="bookmark" title="Kumpulan Helmi">Kumpulan Helmi</a>',60.2077761,24.9673712],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kiertomarket" rel="bookmark" title="Kiertomarket">Kiertomarket</a>',60.162184,24.928684],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/nassikka" rel="bookmark" title="Nassikka">Nassikka</a>',60.2745893,25.0457274],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/icare-myllypuro" rel="bookmark" title="iCare Myllypuro">iCare Myllypuro</a>',60.2238839,25.0739137],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/fida-columbus" rel="bookmark" title="Fida Columbus">Fida Columbus</a>',60.2073736,25.14506],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/mvt-kirppis" rel="bookmark" title="MVT-kirppis">MVT-kirppis</a>',60.2251848,25.0766702],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/preporte" rel="bookmark" title="PréPorté">PréPorté</a>',60.1659422,24.9344261],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kahdeksas-aisti" rel="bookmark" title="Kahdeksas Aisti">Kahdeksas Aisti</a>',60.2068543,25.0412298],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/siisti-kirppis" rel="bookmark" title="Siisti Kirppis">Siisti Kirppis</a>',60.1584194,24.9212249],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/helsinki-flea-market" rel="bookmark" title="Helsinki Flea Market">Helsinki Flea Market</a>',60.1769148,24.9140483],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/suutarilan-kirppis" rel="bookmark" title="Suutarilan Kirppis">Suutarilan Kirppis</a>',60.2781269,25.0215155],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/lounaskahvila-pelto" rel="bookmark" title="Lounaskahvila Pelto">Lounaskahvila Pelto</a>',60.2111474,25.0528863],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/hesyn-elainsuojelupuoti" rel="bookmark" title="HESY-puoti">HESY-puoti</a>',60.2312362,24.8593824],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-arabia" rel="bookmark" title="UFF Arabia (Helsinki)">UFF Arabia (Helsinki)</a>',60.2028854,24.968298],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kirpputori-spinny" rel="bookmark" title="Kirpputori Spinny">Kirpputori Spinny</a>',60.2303519,24.8813221],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/vuosaaren-kriisiryhman-kirppiskahvio" rel="bookmark" title="Vuosaaren Kriisiryhmän kirppiskahvio">Vuosaaren Kriisiryhmän kirppiskahvio</a>',60.2064598,25.1462587],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kirppis-tresor" rel="bookmark" title="Kirppis &amp; Trésor">Kirppis &amp; Trésor</a>',60.2028239,24.9678499],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/relove" rel="bookmark" title="Relove Töölö">Relove Töölö</a>',60.1787069,24.9232416],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-kurvi" rel="bookmark" title="UFF Sörnäinen (Helsinki)">UFF Sörnäinen (Helsinki)</a>',60.1874325,24.9620294],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-malminkaari" rel="bookmark" title="UFF Malmi (Helsinki)">UFF Malmi (Helsinki)</a>',60.2515967,25.0137111],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-kontula" rel="bookmark" title="UFF Kontula (Helsinki)">UFF Kontula (Helsinki)</a>',60.2373499,25.0832622],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/uff-columbus" rel="bookmark" title="UFF Columbus (Helsinki)">UFF Columbus (Helsinki)</a>',60.2076017,25.1447427],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/helsingin-kontti-visbynkuja-itakeskus" rel="bookmark" title="Helsingin Kontti, Visbynkuja (Itäkeskus)">Helsingin Kontti, Visbynkuja (Itäkeskus)</a>',60.2088659,25.0840687],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/hakaniemen-kirppis" rel="bookmark" title="Hakaniemen Kirpputori">Hakaniemen Kirpputori</a>',60.18047189999999,24.95208290000005],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/pelastusarmeijan-kirpputori-myllypuro" rel="bookmark" title="Pelastusarmeijan kirpputori, Myllypuro">Pelastusarmeijan kirpputori, Myllypuro</a>',60.2238839,25.0739137],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/paloheinan-kirpputori" rel="bookmark" title="Paloheinän kirpputori">Paloheinän kirpputori</a>',60.2479745,24.9232006],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/sahinan-kulttuurikirppis" rel="bookmark" title="Sähinän kulttuurikirppis">Sähinän kulttuurikirppis</a>',60.15575980000001,24.882836399999974],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/fida-maunula" rel="bookmark" title="Fida Helsinki, Maunula">Fida Helsinki, Maunula</a>',60.2306834,24.9353571],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kallio-second-hand" rel="bookmark" title="Kallio second hand">Kallio second hand</a>',60.1838139,24.9587947],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/recci" rel="bookmark" title="Recci Helsinki">Recci Helsinki</a>',60.1753572,24.9508357],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/suomen-lahetysseuran-vanhaliina" rel="bookmark" title="Suomen Lähetysseuran Vanhaliina">Suomen Lähetysseuran Vanhaliina</a>',60.16049940000001,24.950195200000053],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/happyhand-helsinki" rel="bookmark" title="HappyHand Helsinki">HappyHand Helsinki</a>',60.1871259,24.9539929],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/frida-marina" rel="bookmark" title="Frida marina">Frida marina</a>',60.185993,24.9512523],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/konepajan-bruno" rel="bookmark" title="Konepajan Bruno">Konepajan Bruno</a>',60.1923316,24.9458985],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/zirppari" rel="bookmark" title="Zirppari">Zirppari</a>',60.184054,24.944759100000056],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/punavuoren-patina" rel="bookmark" title="Punavuoren Patina">Punavuoren Patina</a>',60.1589526,24.9387444],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/myyntimylly" rel="bookmark" title="Itsepalvelukirppis Myyntimylly">Itsepalvelukirppis Myyntimylly</a>',60.2238839,25.0739137],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/haagan-tori" rel="bookmark" title="Haagan torin kirpputorit ja käsitöiden myyntipaikat">Haagan torin kirpputorit ja käsitöiden myyntipaikat</a>',60.21216519999999,24.899252700000034],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/hyva-ystava-kirppis-helsinki" rel="bookmark" title="Hyvä Ystävä Kirppis">Hyvä Ystävä Kirppis</a>',60.2143706,25.082070799999997],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kampin-kirpputori" rel="bookmark" title="Kampin kirpputori">Kampin kirpputori</a>',60.1705153,24.9254681],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/veturitallin-kirppis" rel="bookmark" title="Veturitallin Kirppis">Veturitallin Kirppis</a>',60.1955777,24.935252399999968],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/yla-malmin-tori" rel="bookmark" title="Ylä-Malmin tori">Ylä-Malmin tori</a>',60.2515967,25.0137112],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/velmukirppis" rel="bookmark" title="Velmukirppis">Velmukirppis</a>',60.2519985,25.016991],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/diva-kirppis" rel="bookmark" title="Diva Kirppis">Diva Kirppis</a>',60.1556388,24.883102399999984],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kalevan-kirppis" rel="bookmark" title="Kalevan kirppis">Kalevan kirppis</a>',60.16348989999999,24.927024800000027],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kirppis-makitorppa" rel="bookmark" title="Kirppis Mäkitorppa">Kirppis Mäkitorppa</a>',60.2266247,24.955139700000018],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/kattilahallin-kirppis" rel="bookmark" title="Kattilahallin kirppis">Kattilahallin kirppis</a>',60.1867034,24.9698149],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/paakaupunkiseudun-kierratyskeskus-itakeskus" rel="bookmark" title="Pääkaupunkiseudun Kierrätyskeskus, Itäkeskus">Pääkaupunkiseudun Kierrätyskeskus, Itäkeskus</a>',60.208678,25.08588],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/pitkansillan-kirppis" rel="bookmark" title="Pitkänsillan kirppis">Pitkänsillan kirppis</a>',60.176948,24.949033900000018],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/hippula" rel="bookmark" title="Hippula Lasten Kirppis &amp; Kaffela">Hippula Lasten Kirppis &amp; Kaffela</a>',60.2137993,24.9562157],
+
+            ['<a href="http://www.kirppikset.info/kirppikset/metkan-kirpputori-helsinki" rel="bookmark" title="Metka kirpputori">Metka kirpputori</a>',60.1922011,24.9638162],
+            ];
+*/
