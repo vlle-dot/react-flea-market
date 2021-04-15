@@ -1,0 +1,351 @@
+[
+    {
+        "id": 1,
+        "locationId": null,
+        "name": "UFF Mannerheimintie",
+        "status": "Open",
+        "address": {
+            "street": "Mannerheimintie 104",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude":  60.189395,
+            "longitude": 24.916535
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 2,
+        "locationId": null,
+        "name": "UFF Hämeentie",
+        "status": "Open",
+        "address": {
+            "street": "Hämeentie test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude":  60.180525,
+            "longitude": 24.951659
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 3,
+        "locationId": null,
+        "name": "UFF Fredrikinkatu",
+        "status": "Open",
+        "address": {
+            "street": "Fredrikinkatu test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude":  60.16626,
+            "longitude": 24.934297
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 4,
+        "locationId": null,
+        "name": "UFF Columbus",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude":  60.2076017,
+            "longitude": 25.144742599999972
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 5,
+        "locationId": null,
+        "name": "UFF Ostostie",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude":  60.23833310000001,
+            "longitude": 25.08363159999999
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 5,
+        "locationId": null,
+        "name": "UFF Malminkaari",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.2508545,
+            "longitude": 25.01174400000002
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 6,
+        "locationId": null,
+        "name": "UFF Itäkeskus",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.211127,
+            "longitude": 25.079696
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 7,
+        "locationId": null,
+        "name": "UFF Runeberginkatu",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.16933,
+            "longitude": 24.927442
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 8,
+        "locationId": null,
+        "name": "UFF Runeberginkatu",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.16933,
+            "longitude": 24.927442
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 9,
+        "locationId": null,
+        "name": "UFF Iso Roba 4-6",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.164025,
+            "longitude": 24.943716
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 10,
+        "locationId": null,
+        "name": "UFF Punavuori",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.1632973,
+            "longitude": 24.935073
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    },
+    {
+        "id": 10,
+        "locationId": null,
+        "name": "UFF Ruoholahti",
+        "status": "Open",
+        "address": {
+            "street": "test",
+            "city": "Helsinki",
+            "state": null,
+            "zip": null,
+            "countryId": null,
+            "country": "Finland",
+            "regionId": null,
+            "region": null
+        },
+        "gps": {
+            "latitude": 60.163556,
+            "longitude": 24.9101479
+        },
+        "dateOpened": null,
+        "stallCount": null,
+        "counted": null,
+        "elevationMeters": null,
+        "powerKilowatt": null,
+        "solarCanopy": null,
+        "battery": null,
+        "statusDays": null,
+        "urlDiscuss": null
+    }
+
+]
