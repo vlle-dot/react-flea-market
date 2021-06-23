@@ -1,351 +1,680 @@
 [
     {
         "id": 1,
-        "locationId": null,
-        "name": "UFF Mannerheimintie",
-        "status": "Open",
+        "name": "UFF Töölö",
         "address": {
             "street": "Mannerheimintie 104",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00250",
+            "country": "Finland"
         },
         "gps": {
-            "latitude":  60.189395,
-            "longitude": 24.916535
+            "latitude": 60.1893749,
+            "longitude": 24.9165526
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://www.uff.fi/"
     },
     {
         "id": 2,
-        "locationId": null,
         "name": "UFF Hämeentie",
-        "status": "Open",
         "address": {
-            "street": "Hämeentie test",
+            "street": "Hämeentie 4",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00530",
+            "country": "Finland"
         },
         "gps": {
-            "latitude":  60.180525,
-            "longitude": 24.951659
+            "latitude":  60.1806704,
+            "longitude": 24.9515909
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://www.uff.fi/"
     },
     {
         "id": 3,
-        "locationId": null,
         "name": "UFF Fredrikinkatu",
-        "status": "Open",
         "address": {
-            "street": "Fredrikinkatu test",
+            "street": "Fredrikinkatu 36",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00100",
+            "country": "Finland"
         },
         "gps": {
-            "latitude":  60.16626,
-            "longitude": 24.934297
+            "latitude":  60.1661456,
+            "longitude": 24.9342526
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://www.uff.fi/"
     },
     {
         "id": 4,
-        "locationId": null,
         "name": "UFF Columbus",
-        "status": "Open",
         "address": {
-            "street": "test",
+            "street": "Tyynylaavantie 5",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00980",
+            "country": "Finland"
         },
         "gps": {
-            "latitude":  60.2076017,
-            "longitude": 25.144742599999972
+            "latitude": 60.2080395,
+            "longitude": 25.1447531
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://uff.fi/"
     },
     {
         "id": 5,
-        "locationId": null,
         "name": "UFF Ostostie",
-        "status": "Open",
         "address": {
             "street": "test",
             "city": "Helsinki",
-            "state": null,
             "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "country": "Finland"
         },
         "gps": {
             "latitude":  60.23833310000001,
             "longitude": 25.08363159999999
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
-    },
-    {
-        "id": 5,
-        "locationId": null,
-        "name": "UFF Malminkaari",
-        "status": "Open",
-        "address": {
-            "street": "test",
-            "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
-        },
-        "gps": {
-            "latitude": 60.2508545,
-            "longitude": 25.01174400000002
-        },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://www.uff.fi/"
     },
     {
         "id": 6,
-        "locationId": null,
-        "name": "UFF Itäkeskus",
-        "status": "Open",
+        "name": "UFF Malmin Nova",
         "address": {
-            "street": "test",
+            "street": "Malminkaari 13-19",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00700",
+            "country": "Finland"
         },
         "gps": {
-            "latitude": 60.211127,
-            "longitude": 25.079696
+            "latitude": 60.2506937,
+            "longitude": 25.0122277
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://uff.fi/"
     },
     {
         "id": 7,
-        "locationId": null,
-        "name": "UFF Runeberginkatu",
-        "status": "Open",
+        "name": "UFF Itäkeskus",
         "address": {
-            "street": "test",
+            "street": "Turunlinnantie 12",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00930",
+            "country": "Finland"
         },
         "gps": {
-            "latitude": 60.16933,
-            "longitude": 24.927442
+            "latitude": 60.2109337,
+            "longitude": 25.0795869
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://uff.fi/"
     },
     {
         "id": 8,
-        "locationId": null,
         "name": "UFF Runeberginkatu",
-        "status": "Open",
         "address": {
-            "street": "test",
+            "street": "Runeberginkatu 4",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00100",
+            "country": "Finland"
         },
         "gps": {
-            "latitude": 60.16933,
-            "longitude": 24.927442
+            "latitude": 60.1691483,
+            "longitude": 24.92741
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://www.uff.fi/"
     },
     {
         "id": 9,
-        "locationId": null,
-        "name": "UFF Iso Roba 4-6",
-        "status": "Open",
-        "address": {
-            "street": "test",
-            "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
-        },
-        "gps": {
-            "latitude": 60.164025,
-            "longitude": 24.943716
-        },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
-    },
-    {
-        "id": 10,
-        "locationId": null,
         "name": "UFF Punavuori",
-        "status": "Open",
         "address": {
-            "street": "test",
+            "street": "Bulevardi 30",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00180",
+            "country": "Finland"
         },
         "gps": {
-            "latitude": 60.1632973,
-            "longitude": 24.935073
+            "latitude": 60.1635031,
+            "longitude": 24.9351444
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://uff.fi/"
     },
     {
         "id": 10,
-        "locationId": null,
         "name": "UFF Ruoholahti",
-        "status": "Open",
         "address": {
-            "street": "test",
+            "street": "Itämerenkatu 21",
             "city": "Helsinki",
-            "state": null,
-            "zip": null,
-            "countryId": null,
-            "country": "Finland",
-            "regionId": null,
-            "region": null
+            "zip": "00180",
+            "country": "Finland"
         },
         "gps": {
-            "latitude": 60.163556,
-            "longitude": 24.9101479
+            "latitude": 60.1635182,
+            "longitude": 24.9099956
         },
-        "dateOpened": null,
-        "stallCount": null,
-        "counted": null,
-        "elevationMeters": null,
-        "powerKilowatt": null,
-        "solarCanopy": null,
-        "battery": null,
-        "statusDays": null,
-        "urlDiscuss": null
+        "website": "https://uff.fi/"
+    },
+    {
+        "id": 11,
+        "name": "Aino Kirpputori",
+        "address": {
+            "street": "Sitratori 3",
+            "city": "Helsinki",
+            "zip": "00420",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2395515,
+            "longitude": 24.8762568
+        }
+    },
+    {
+        "id": 12,
+        "name": "Fida Lähetystori",
+        "address": {
+            "street": "Kastelholmantie 2",
+            "city": "Helsinki",
+            "zip": "00900",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2140343,
+            "longitude": 25.0832165
+        }
+    },
+    {
+        "id": 13,
+        "name": "Emmaus Helsinki",
+        "address": {
+            "street": "Mäkelänkatu 54",
+            "city": "Helsinki",
+            "zip": "00510",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1967014,
+            "longitude": 24.9510489
+        }
+    },
+    {
+        "id": 14,
+        "name": "Keltainen Jäänsärkijä",
+        "address": {
+            "street": "Urho Kekkosen katu 4-6",
+            "city": "Helsinki",
+            "zip": "00100",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.168589,
+            "longitude": 24.9332034
+        }
+    },
+    {
+        "id": 15,
+        "name": "Vekarakirppis",
+        "address": {
+            "street": "Intiankatu 20",
+            "city": "Helsinki",
+            "zip": "00560",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2077145,
+            "longitude": 24.9674935
+        }
+    },
+    {
+        "id": 16,
+        "name": "Antikvariaatti Sofia",
+        "address": {
+            "street": "Vuorikatu 5",
+            "city": "Helsinki",
+            "zip": "00100",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1707912,
+            "longitude": 24.9478198
+        }
+    },
+    {
+        "id": 17,
+        "name": "UFF Kurvi",
+        "address": {
+            "street": "Hämeentie 29",
+            "city": "Helsinki",
+            "zip": "00500",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1875072,
+            "longitude": 24.9624674
+        },
+        "website": "https://www.uff.fi/"
+    },
+    {
+        "id": 18,
+        "name": "SPR Kontti Helsinki",
+        "address": {
+            "street": "Visbynkuja 2",
+            "city": "Helsinki",
+            "zip": "00930",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2090304,
+            "longitude": 25.0837097
+        }
+    },
+    {
+        "id": 19,
+        "name": "Kaunis Veera",
+        "address": {
+            "street": "Albertinkatu 10",
+            "city": "Helsinki",
+            "zip": "00150",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1604973,
+            "longitude": 24.9384131
+        }
+    },
+    {
+        "id": 20,
+        "name": "Kummisetä",
+        "address": {
+            "street": "Uudenmaankatu 26",
+            "city": "Helsinki",
+            "zip": "00120",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1637066,
+            "longitude": 24.9389829
+        }
+    },
+    {
+        "id": 21,
+        "name": "Kierrätyskeskus Kontula",
+        "address": {
+            "street": "Keinulaudankuja 4",
+            "city": "Helsinki",
+            "zip": "00940",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2366091,
+            "longitude": 25.0850534
+        }
+    },
+    {
+        "id": 22,
+        "name": "Punavuoren patina",
+        "address": {
+            "street": "Sepänkatu 11",
+            "city": "Helsinki",
+            "zip": "00150",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1589265,
+            "longitude": 24.9388044
+        }
+    },
+    {
+        "id": 23,
+        "name": "Ansa",
+        "address": {
+            "street": "Agricolankatu 5",
+            "city": "Helsinki",
+            "zip": "00530",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1844143,
+            "longitude": 24.9547439
+        }
+    },
+    {
+        "id": 24,
+        "name": "Fargo Vintage Kallio",
+        "address": {
+            "street": "Fleminginkatu 20",
+            "city": "Helsinki",
+            "zip": "00500",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1875317,
+            "longitude": 24.9528627
+        },
+        "website": "https://www.fargoshop.fi/"
+    },
+    {
+        "id": 25,
+        "name": "Mekkomania",
+        "address": {
+            "street": "Fleminginkatu 12",
+            "city": "Helsinki",
+            "zip": "00530",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1861545,
+            "longitude": 24.9530209
+        },
+        "website": "https://www.mekkomania.fi/"
+    },
+    {
+        "id": 26,
+        "name": "Kirpputori Spinny",
+        "address": {
+            "street": "Kaupintie 13",
+            "city": "Helsinki",
+            "zip": "00440",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.230453,
+            "longitude": 24.8812947
+        },
+        "website": "https://www.kirpputorispinny.com/"
+    },
+    {
+        "id": 27,
+        "name": "Astialiisa",
+        "address": {
+            "street": "Runeberginkatu 59",
+            "city": "Helsinki",
+            "zip": "00260",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1800853,
+            "longitude": 24.9243883
+        },
+        "website": "https://www.astialiisa.fi/"
+    },
+    {
+        "id": 28,
+        "name": "Fresh Garbage Records",
+        "address": {
+            "street": "Mannerheimintie 66",
+            "city": "Helsinki",
+            "zip": "00260",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1827384,
+            "longitude": 24.9254279
+        },
+        "website": "http://www.freshgarbage.fi/"
+    },
+    {
+        "id": 29,
+        "name": "Recci",
+        "address": {
+            "street": "Itäkatu 1-7",
+            "city": "Helsinki",
+            "zip": "00930",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2100616,
+            "longitude": 25.0788832
+        },
+        "website": "https://www.recci.fi/"
+    },
+    {
+        "id": 30,
+        "name": "UFF Arabia",
+        "address": {
+            "street": "Hämeentie 111",
+            "city": "Helsinki",
+            "zip": "00560",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2030435,
+            "longitude": 24.9682393
+        },
+        "website": "https://www.uff.fi/"
+    },
+    {
+        "id": 31,
+        "name": "Kierrätyskeskus Oulunkylä",
+        "address": {
+            "street": "Kylänvanhimmantie 29",
+            "city": "Helsinki",
+            "zip": "00640",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2285928,
+            "longitude": 24.9634474
+        },
+        "website": "https://www.kierratyskeskus.fi/myymalat_ja_palvelut/oulunkylan_kauppa"
+    },
+    {
+        "id": 32,
+        "name": "Frida Maria",
+        "address": {
+            "street": "Kaarlenkatu 10",
+            "city": "Helsinki",
+            "zip": "00530",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1858166,
+            "longitude": 24.951262
+        },
+        "website": "https://www.myhelsinki.fi/en/see-and-do/shopping/frida-marina"
+    },
+    {
+        "id": 33,
+        "name": "Kaivarin Kanuuna",
+        "address": {
+            "street": "Vuorimiehenkatu 27",
+            "city": "Helsinki",
+            "zip": "00140",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1594127,
+            "longitude": 24.9462199
+        },
+        "website": "http://kaivarinkanuuna.fi/"
+    },
+    {
+        "id": 34,
+        "name": "Antikvariaatti Korkeavuori",
+        "address": {
+            "street": "Korkeavuorenkatu 13",
+            "city": "Helsinki",
+            "zip": "00130",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1615308,
+            "longitude": 24.9465964
+        },
+        "website": "#"
+    },
+    {
+        "id": 35,
+        "name": "UFF Kontula",
+        "address": {
+            "street": "Ostostie 4",
+            "city": "Helsinki",
+            "zip": "00940",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.2370946,
+            "longitude": 25.0831623
+        },
+        "website": "https://uff.fi/"
+    },
+    {
+        "id": 36,
+        "name": "Kirpputori DoM",
+        "address": {
+            "street": "Välimerenkatu 3",
+            "city": "Helsinki",
+            "zip": "00180",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1603697,
+            "longitude": 24.9205068
+        },
+        "website": "https://www.kirpputoridom.fi/"
+    },
+    {
+        "id": 37,
+        "name": "Siisti Kirppis",
+        "address": {
+            "street": "Suezinkatu 3",
+            "city": "Helsinki",
+            "zip": "00220",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.158503,
+            "longitude": 24.920395
+        },
+        "website": "https://siistikirppis.fi/"
+    },
+    {
+        "id": 38,
+        "name": "Helsinki Flea Market",
+        "address": {
+            "street": "Merikannontie 3",
+            "city": "Helsinki",
+            "zip": "00260",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1768505,
+            "longitude": 24.9142074
+        },
+        "website": "https://helsinkifleamarket.fi/"
+    },
+    {
+        "id": 39,
+        "name": "Punaisen Ristin Tuotteiden Myynti",
+        "address": {
+            "street": "Tehtaankatu 1",
+            "city": "Helsinki",
+            "zip": "00140",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.159707,
+            "longitude": 24.9549162
+        },
+        "website": "https://www.punaisenristinkauppa.fi/"
+    },
+    {
+        "id": 40,
+        "name": "Emmaus Helsinki",
+        "address": {
+            "street": "Heikkiläntie 2",
+            "city": "Helsinki",
+            "zip": "00200",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1542586,
+            "longitude": 24.8793421
+        },
+        "website": "https://www.emmaushelsinki.fi/"
+    },
+    {
+        "id": 41,
+        "name": "Flea Second Hand",
+        "address": {
+            "street": "Iso Roobertinkatu 11",
+            "city": "Helsinki",
+            "zip": "00120",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1635319,
+            "longitude": 24.9419711
+        },
+        "website": "https://fleasecondhand.com/"
+    },
+    {
+        "id": 42,
+        "name": "UFF Töölöntori",
+        "address": {
+            "street": "Runeberginkatu 44",
+            "city": "Helsinki",
+            "zip": "00260",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1787483,
+            "longitude": 24.9224235
+        },
+        "website": "https://uff.fi/"
+    },
+    {
+        "id": 43,
+        "name": "Revibes Butik",
+        "address": {
+            "street": "Runeberginkatu 38",
+            "city": "Helsinki",
+            "zip": "00260",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1778995,
+            "longitude": 24.9222781
+        },
+        "website": "https://www.revibesbutik.com/"
+    },
+    {
+        "id": 44,
+        "name": "Relove Stockmann",
+        "address": {
+            "street": "Aleksanterinkatu 52",
+            "city": "Helsinki",
+            "zip": "00100",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1680776,
+            "longitude": 24.9425388
+        },
+        "website": "https://www.relove.fi/"
+    },
+    {
+        "id": 45,
+        "name": "Gem Vintage",
+        "address": {
+            "street": "Fleminginkatu 14",
+            "city": "Helsinki",
+            "zip": "00530",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1863156,
+            "longitude": 24.9529952
+        },
+        "website": "https://gemvintagehelsinki.com/"
+    },
+    {
+        "id": 46,
+        "name": "Musta Kanin Kolo",
+        "address": {
+            "street": "Hämeentie 26",
+            "city": "Helsinki",
+            "zip": "00530",
+            "country": "Finland"
+        },
+        "gps": {
+            "latitude": 60.1829778,
+            "longitude": 24.9573275
+        },
+        "website": "https://mustankaninkolo.info/"
     }
-
 ]
